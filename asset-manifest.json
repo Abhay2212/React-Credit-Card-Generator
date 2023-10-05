@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Credit-Card-Generator/static/css/main.fa298c01.css",
+    "main.js": "/React-Credit-Card-Generator/static/js/main.314faf50.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-Credit-Card-Generator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Rectangle 1.png": "/React-Credit-Card-Generator/static/media/Rectangle 1.199f9cee3d4113f47a66.png",
+    "static/media/card-front.png": "/React-Credit-Card-Generator/static/media/card-front.905012ac271f4597934f.png",
+    "static/media/card-back.png": "/React-Credit-Card-Generator/static/media/card-back.23f68fa3aa3d5b33dfc8.png",
+    "index.html": "/React-Credit-Card-Generator/index.html",
+    "static/media/card-logo.svg": "/React-Credit-Card-Generator/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.fa298c01.css.map": "/React-Credit-Card-Generator/static/css/main.fa298c01.css.map",
+    "main.314faf50.js.map": "/React-Credit-Card-Generator/static/js/main.314faf50.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-Credit-Card-Generator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa298c01.css",
+    "static/js/main.314faf50.js"
+  ]
+}
